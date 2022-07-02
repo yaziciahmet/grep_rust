@@ -1,1 +1,2 @@
-# grep_rust
+# Grep
+Rust implementation of Grep.
